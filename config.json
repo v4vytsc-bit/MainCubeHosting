@@ -1,11 +1,12 @@
 {
 	"ip":"Minecraft_Khelo.aternos.me",
 	"port": 35619,
-	"name": "Cube",
+	"name": "I",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register MR_MR121 MR_MR121",
 	"login-cmd":"/login MR_MR121"
 
 }
+
 
